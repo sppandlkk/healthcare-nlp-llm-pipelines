@@ -1,2 +1,5 @@
-# healthcare-nlp-llm-pipelines
-demo for applying nlp and llm on healthcare data
+# Healthcare NLP LLM Pipelines
+
+This repository demonstrates how **NLP techniques**  and **large language models (LLMs)** 
+can be applied to real-world healthcare problems, with reproducible examples.
+
